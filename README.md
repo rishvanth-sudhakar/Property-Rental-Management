@@ -20,4 +20,4 @@ A web-based Rental Property Management System developed using HTML, CSS, Bootstr
 * Privacy Policy and Terms & Conditions
 * Modern and User-Friendly Interface
 
-This project was developed as part of a web development learning and mini-project initiative to demonstrate front-end development skills and rental management concepts.
+This project was developed as part of a web development learning and mini-project initiative to demonstrate front-end development skills and, rental management concepts.
